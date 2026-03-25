@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "南十字星",
+  "base_artist": "カネヨリマサル",
+  "createdAt": "2026-03-25T01:28:14.120711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "南十字星",
+      "artist": "ChthoniC",
+      "has_synced": true,
+      "path": "select/01_南十字星_ChthoniC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "南十字星",
+      "artist": "西城秀樹",
+      "has_synced": true,
+      "path": "select/02_南十字星_西城秀樹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "南十字星 (别后的歳月)",
+      "artist": "Hideki Saijo (西城秀樹)",
+      "has_synced": false,
+      "path": "select/03_南十字星_(别后的歳月)_Hideki_Saijo_(西城秀樹).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "南十字星",
+      "artist": "カネヨリマサル",
+      "has_synced": false,
+      "path": "select/pl_01_南十字星_カネヨリマサル.txt"
+    }
+  ]
+}
